@@ -1,0 +1,1 @@
+ALTER TABLE public.key_results ADD COLUMN IF NOT EXISTS last_assigned_by uuid;

@@ -1,0 +1,1 @@
+DELETE FROM public.broker_achievements; DELETE FROM public.custom_achievements;
